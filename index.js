@@ -62,11 +62,55 @@ arrayOfMyFavouriteFood.push("Rice and Beans")         //using push() method to a
 
 console.log(arrayOfMyFavouriteFood)        //display the new list of the array
 
+
+//Create 3 arrays
+
+const jssOne = ["Ammara Joshua", "Nathan Ojo", "Divine Paul", "Precious John", "Jennel Bature", "Purity Onyekachi", "Jen Anniel", "Testimoney Abah", "Dominion Eze", "liberty James"]    //Array variable to store list of names of jss One students
+
+console.log(jssOne)   //Display the content of jssOne
+
+const jssTwo = ["Ekene Chukwu", "Moses Ade", "Mike Eke", "Moses achu", "Mercy Israel", "Treasure Osondu", "Timothy Amadi", "Jesica babatunde", "Emmanuel Tesoo", "Edet Iyan"]             //Array variable to store list of names of jss Two students
+
+console.log(jssTwo)   //Display the content of jssTwo
+
+const jssThree = ["Uche Ohi", "Ibrahim musa", "Oyidamola Adefesobi", "Glory Emmanuel", "Praise wonders", "Raphel Chukwubikem", "King Okeke", "Gambo Ibrahim", "Chimerugo Okechukwu", "Dorcas Uzoma"]      //Array variable to store list of names of jss Three students
+
+console.log(jssThree)       //Display the content of jssThree
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // const isFinished = false
 
 // const isRead = true
 
 // //undefined variable
+
+
 
 // // let successful
 
